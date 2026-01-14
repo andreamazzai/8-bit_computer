@@ -1,1 +1,1 @@
-Questa è la cartella sulla quale ho lavorato localmente sul Raspberry per i progetti dei computer a 8 bit SAP e BEAM
+Questa è la cartella sulla quale ho lavorato localmente sul Raspberry per i progetti dei computer a 8 bit SAP e BEAM https://github.com/andreamazzai/beam
