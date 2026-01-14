@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:nano:cpu=atmega328",
+  "hardwareFolders": "/home/pi/.arduino15/packages",
+  "otherLibrariesFolders": "/home/pi/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/pi/8-bit_computer/5-bootloader"
+}

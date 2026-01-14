@@ -1,0 +1,10 @@
+#line 1 "/home/pi/8-bit_computer/5-bootloader/sketch.json"
+{
+  "cpu": {
+    "fqbn": "arduino:avr:nano",
+    "name": "Arduino Nano",
+    "port": "serial:///dev/ttyUSB0"
+  }
+}
+
+

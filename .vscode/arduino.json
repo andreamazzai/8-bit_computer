@@ -1,0 +1,8 @@
+{
+    "port": "/dev/ttyUSB0",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "avrisp",
+    "sketch": "5-bootloader/5-bootloader.ino",
+    "output": "./build"
+}

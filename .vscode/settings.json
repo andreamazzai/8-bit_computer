@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "9-beam-bootloader": "c",
+        "10-emk-programmer": "c"
+    }
+}
